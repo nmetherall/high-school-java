@@ -1,0 +1,4 @@
+java.awt.*;
+class Level
+{
+}

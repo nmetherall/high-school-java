@@ -1,0 +1,18 @@
+ship
+	add ship
+	ship follow mouse
+	extends star
+	is affected by gravity but doesn't have gravity
+blue star
+	extends star
+	follows ship
+	is not affected by gravity but has gravity
+exponential scrolling when close to side
+remove manual scrolling
+
+Purple star
+	extends star
+	can not combine with anything except ship
+
+possible future pink star
+	increase mass of ship so less affected by gravity	

@@ -1,0 +1,3 @@
+class PowerUp extends Thingy
+{
+}
